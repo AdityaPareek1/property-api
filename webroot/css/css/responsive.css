@@ -1,0 +1,259 @@
+ 
+@media only screen and ( min-width:1500px) and ( max-width:1800px) {
+.menu_buy { padding: 20px 0px; }
+.main_cart {  padding: 20px 0px 50px 0px; }
+.see_pro { margin-bottom: 20px; }
+}
+
+
+
+@media only screen and ( min-width:1200px) and ( max-width:1499px) {
+.container {  max-width: 1140px; margin: auto; }
+.menu_buy { padding: 20px 0px; }
+.main_cart {  padding: 10px 0px 20px 0px; }
+.see_pro { margin-bottom: 10px; }
+h2 {  margin-bottom: 15px; font-size: 36px;}  
+.item .card .card-body .owner {margin-left: -25px; }
+p {font-size: 18px; line-height: 26px;}
+section.search-form {padding: 3px 8px;border-radius: 50px;}
+.slider_home_sec button.owl-prev span { left: -40px;}
+.slider_home_sec button.owl-next span { right: -40px;}
+.popular { margin-bottom: -1px; }	
+.all_service .container {padding: 40px 20px 0px 20px;}
+.Connected_Properties li.nav-item .active p.m_bott {margin-bottom: 0;}
+.Connected_Properties .proparty_details {padding-top: 0;}
+.Contact_sec {padding: 60px 0px;}
+.bg_contacts {padding: 40px 40px;}
+ul.bed_sec li { font-size: 16px;}
+.slider_home_sec .item .card figure { height: auto;}
+	
+}
+
+
+
+@media only screen and ( min-width:992px) and ( max-width:1199px) {
+.container {  max-width: 940px; margin: auto; }
+.menu_buy { padding: 20px 0px; }
+.main_cart {  padding: 10px 0px 20px 0px; }
+.see_pro { margin-bottom: 10px; }
+h2 {  margin-bottom: 15px; font-size: 36px;}  
+.item .card .card-body .owner {margin-left:0px;      display: block;}
+p {font-size: 18px; line-height: 26px;}
+section.search-form {padding: 3px 8px;border-radius: 50px;}
+.slider_home_sec button.owl-prev span { left: -30px; height: 35px; width: 35px;}
+.slider_home_sec button.owl-next span { right: -30px; height: 35px; width: 35px; }
+.popular { margin-bottom: -1px; }	
+.all_service .container {padding: 40px 20px 0px 20px;}
+.Connected_Properties li.nav-item .active p.m_bott {margin-bottom: 0;}
+.Connected_Properties .proparty_details {padding-top: 0;}
+.Contact_sec {padding: 60px 0px;}
+.bg_contacts {padding: 40px 40px;}
+ul.bed_sec li { font-size: 16px;     padding-right: 90px;}
+.slider_home_sec .item .card figure { height: auto;}
+.header_bottom .navigation ul li {margin: 0px 30px;}
+.cont_paroparty {padding-left: 10px;border-left: 2px solid #101c42;}
+.proparty_details ul li strong {display: block;font-size: 13px;}	
+.cont_paroparty a.default_btn {padding: 7px 10px;font-size: 15px;}
+.date p {margin-left: 0;}
+.deta_sec {padding: 15px 0px;}	
+.deta_sec .edit_icon a.default_btn {display: inline-block;}
+span.start_img {width: 65%;}
+ul.bed_sec.all_info {display: flex;flex-wrap: wrap;}
+ul.bed_sec.all_info li {padding-right: 85px;margin-bottom: 25px;}
+.deta_sec ul li {font-size: 16px;line-height: 22px;	}
+.slider_home_sec .item .card .card-body {padding: 10px 10px;}
+.slider_home_sec .item .card .card-body p {margin-bottom: 0;}
+.Investment_cont { padding: 0px 0px; }
+.Investment_cont .top_cont strong { color: #343434;	font-size: 42px;}
+	
+}
+
+
+
+
+@media only screen and ( min-width:768px) and ( max-width:991px) {
+.container {  max-width: 730px; margin: auto; }
+.menu_buy { padding: 15px 0px; }
+.main_cart {  padding: 10px 0px 20px 0px; }
+.see_pro { margin-bottom: 10px; }
+h2 {  margin-bottom:  5px; font-size: 30px;}  
+.item .card .card-body .owner {margin-left:0px;      display: block;}
+p {font-size: 16px; line-height: 24px;}
+section.search-form {padding: 3px 8px;border-radius: 50px;}
+.slider_home_sec button.owl-prev span { left: -30px; height: 35px; width: 35px;}
+.slider_home_sec button.owl-next span { right: -30px; height: 35px; width: 35px; }
+.popular { margin-bottom: -1px; }	
+.all_service .container {padding: 40px 20px 0px 20px;}
+.Connected_Properties li.nav-item .active p.m_bott {margin-bottom: 0;}
+.Connected_Properties .proparty_details {padding-top: 0;}
+.Contact_sec {padding: 60px 0px;}
+.bg_contacts {padding: 20px 20px; margin-top: 15px; }
+ul.bed_sec li { font-size: 16px;     padding-right:35px;}
+.slider_home_sec .item .card figure { height: auto;}
+.header_bottom .navigation ul li {margin: 0px 15px;}
+.cont_paroparty {padding-left: 10px;border-left: 2px solid #101c42;}
+.proparty_details ul li strong {display: block;font-size: 13px;}	
+.cont_paroparty a.default_btn {     padding: 9px 10px;  font-size: 14px; }
+.date p {margin-left: 0;}
+.deta_sec {padding: 15px 0px;}	
+.deta_sec .edit_icon a.default_btn {display: inline-block;}
+span.start_img {width: 50%;}
+	span.start_img img {
+    width: 45%;
+}
+ul.bed_sec.all_info {display: flex;flex-wrap: wrap;}
+ul.bed_sec.all_info li {padding-right: 85px;margin-bottom: 25px;}
+.deta_sec ul li {font-size: 16px;line-height: 22px;	}
+.slider_home_sec .item .card .card-body {padding: 10px 10px;}
+.slider_home_sec .item .card .card-body p {margin-bottom: 0;}
+.Investment_cont { padding: 0px 0px; }
+.Investment_cont .top_cont strong { color: #343434;	font-size: 42px;}
+	
+header.header .navbar-brand img {width: 120px;margin-left: 0;}	
+.header.sticky .navbar-brand img { width: 108px;}	
+nav.top_header_icon ul li { text-align: end;}
+.header_bottom .navigation ul li a { font-size: 16px; padding: 10px 15px;}	
+li.menu-item-has-children span.arrowicon svg {  margin-left: 0;}
+	
+nav.navigation > ul > li .sub-menu{min-width:  150px;}
+.search_bar_sec { padding: 40px 0px; }
+	
+ .search-form form p.inp-wrap.submit-wrap {
+    margin: 0;
+}
+	.search-form form .inp-wrap.submit-wrap .grid-100 {
+  
+    padding: 6px 12px;
+}
+	.search-form .btn {
+  
+    font-size: 16px;
+	}
+	.search-form form .inp-wrap .form-control {
+    border-radius: 0px;
+		padding: 5px 15px;}
+	.menu_buy nav .nav-tabs button.nav-link {
+ 
+    font-size: 16px;
+		padding: 2px 15px;}
+	.main_service ul {
+ 
+    margin-top: 10px;
+}
+.main_service ul li {
+ 
+    background: #fff;
+    width: calc( 20% - 20px );
+    margin: 0px 10px;
+    padding: 15px 16px 0px 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}	
+	.main_service ul li .service_cont p {
+   
+		font-size: 15px;}
+	
+	h6 {
+    font-size: 18px;
+}
+	.Hangouts .item .card .Places_Rs p {
+ 
+    font-size: 14px;
+}
+.popular ul li {
+    font-size: 16px;
+}
+	
+	h5 {
+ 
+    font-size: 22px;
+ 
+    margin-bottom: 5px;
+	}
+	
+	.Rating_list:last-child{ margin-bottom: 0px; }
+	.cont_paroparty ul.ren_se li {
+    width: 33.33%;
+	}
+	
+	.cont_paroparty ul.ren_se {
+ 
+		justify-content: left;}
+ 	.cont_paroparty ul.ren_se li:nth-child(4){
+    border-right: 1px solid #ccc;
+}
+	
+	.cont_paroparty ul.ren_se li:last-child{
+    border-right: 1px solid #ccc;     height: 73px;
+}
+	
+	
+	
+	
+ ul.details_btn li {
+    background: transparent;
+    width: 33%;
+}
+	
+	.Connected_Properties li.nav-item p.m_bott {
+    margin-bottom: 0;
+    font-size: 18px;
+}
+	.proparty_details .row:last-child{ margin-bottom: 0px; }
+.Connected_Properties {
+    padding: 40px 0px;
+}
+	
+	.Verified {
+ 
+    flex-wrap: wrap;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #d4d4d4;
+}
+.Verified strong {
+    padding-right: 20px;
+}
+	
+	.hkflat .flat_cont ul li {
+ 
+    padding: 0px 10px;
+	}
+	ul.bed_sec.bh_btn3 li {
+    padding-right: 10px;
+}
+	
+.review {
+ 
+    width: 30%;
+ 
+}	
+	.meb_btn a.default_btn {
+    
+    padding: 10px 25px;
+}
+	.profile .container {
+ 
+    padding: 25px;
+}	
+	.deta_sec .icon_info span {
+    margin-right: 15px;
+}
+	.hkflat .flat_cont ul li h5 {
+    font-size: 18px;
+}
+	
+ 
+	
+	
+}
+
+
+
+ 
+
+
+
+
+
+
+
